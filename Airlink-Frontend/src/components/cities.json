@@ -1,0 +1,92 @@
+[
+  {
+    "id": "1",
+    "name": "Mumbai",
+    "state": "Maharashtra",
+    "country": "India"
+  },
+  {
+    "id": "2",
+    "name": "New Delhi",
+    "state": "New Delhi",
+    "country": "India"
+  },
+  {
+    "id": "3",
+    "name": "Bengaluru",
+    "state": "Karnataka",
+    "country": "India"
+  },
+  {
+    "id": "4",
+    "name": "Kolkata",
+    "state": "West Bengal",
+    "country": "India"
+  },
+  {
+    "id": "5",
+    "name": "Ahemdabad",
+    "state": "Gujrat",
+    "country": "India"
+  },
+  {
+    "id": "6",
+    "name": "Jaipur",
+    "state": "Rajasthan",
+    "country": "India"
+  },
+  {
+    "id": "7",
+    "name": "Chennai",
+    "state": "Tamilnadu",
+    "country": "India"
+  },
+  {
+    "id": "8",
+    "name": "London",
+    "state": "",
+    "country": "United Kingdom"
+  },
+  {
+    "id": "9",
+    "name": "Dubai",
+    "state": "",
+    "country": "United Arab Emirates"
+  },
+  {
+    "id": "10",
+    "name": "Singapore",
+    "state": "",
+    "country": "Singapore"
+  },
+  {
+    "id": "11",
+    "name": "New York",
+    "state": "New York",
+    "country": "United States"
+  },
+  {
+    "id": "12",
+    "name": "Tokyo",
+    "state": "",
+    "country": "Japan"
+  },
+  {
+    "id": "13",
+    "name": "Paris",
+    "state": "",
+    "country": "France"
+  },
+  {
+    "id": "14",
+    "name": "Sydney",
+    "state": "New South Wales",
+    "country": "Australia"
+  },
+  {
+    "id": "15",
+    "name": "Moscow",
+    "state": "",
+    "country": "Russia"
+  }
+]
