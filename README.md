@@ -11,7 +11,7 @@ Built using:
 - CSS framework: React-bootstrap, tailwind
 - CSS animations library: Animate.css
 - Back-end: Java Spring Boot
- -Database:Mongo-db
+
 You can run the app using:
 
 ### `npm start`
